@@ -83,7 +83,7 @@ author:
   name             : "Qirun Sun"
   avatar           : "profile.png"
   bio              : "Phd candidate in Southeast University; Visiting scholar in Nanyang Technical University;"
-  location         : "Sipailou 2, Nanjing, Jiangsu Province, China"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JIcw9ZAAAAAJ&hl=zh-CN&oi=ao"
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
